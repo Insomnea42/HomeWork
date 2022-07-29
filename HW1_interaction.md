@@ -32,7 +32,11 @@
     * git merge СоседняяВетка - слияние ветки по имени к той, кт нужно сливать;
     * git clone https://github.com/ilnar-geekbrains/version_control_lection_3.git - копирование папки! наша папка не должна быть инициализирована
     * cd ИмяПапки - перейти в папку в apple ну и в winows
-    *  
+    * git remote add origin https://github.com/Insomnea42/Lection3.git - связь существующего репозитория на ссылку origin - название
+    * git branch -M main - 
+    * git push -u origin main - толкая локальное в интернет по origin
+    * git pull https://github.com/Insomnea42/Lection3.git - тянет из адреса и merge разницу
+    * 
 
 5. Читы
     * git commit -am "Комментарий" - объединение двух команд  add и commit;
