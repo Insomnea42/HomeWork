@@ -36,6 +36,9 @@
     * git branch -M main - 
     * git push -u origin main - толкая локальное в интернет по origin
     * git pull https://github.com/Insomnea42/Lection3.git - тянет из адреса и merge разницу
+    * Fork репозитория gitHub
+    * делаем git clone нашей версии этого репозитория из аккаунта в локалку
+    * добавить ветку с предлагаемыми изменениями, правки в ней же, коммит, отправить push на свой и после в github есть озможность отправить pull request хозяину репозитория.
     * 
 
 5. Читы
