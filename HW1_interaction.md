@@ -35,10 +35,10 @@
     * git remote add origin https://github.com/Insomnea42/Lection3.git - связь существующего репозитория на ссылку origin - название
     * git branch -M main - 
     * git push -u origin main - толкая локальное в интернет по origin
-    * git pull https://github.com/Insomnea42/Lection3.git - тянет из адреса и merge разницу
+    * git pull https://github.com/Insomnea42/Lection3.git - тянет из адреса и merge разницу, если предварительно авторизировать git github, то имени не нужно 
     * Fork репозитория gitHub
-    * делаем git clone нашей версии этого репозитория из аккаунта в локалку
-    * добавить ветку с предлагаемыми изменениями, правки в ней же, коммит, отправить push на свой и после в github есть озможность отправить pull request хозяину репозитория.
+    * делаем git clone https://github.com/Insomnea42/git3Evening.git - этого репозитория из аккаунта в локалку, и перейти в папку cd Имя
+    * добавить ветку с предлагаемыми изменениями, правки в ней же, коммит, отправить push на свой и после в github есть возможность отправить pull request хозяину репозитория.
     * 
 
 5. Читы
